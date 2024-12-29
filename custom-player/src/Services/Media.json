@@ -1,0 +1,52 @@
+{
+  "media": [
+    {
+      "id": 1,
+      "fileType": "image",
+      "url": "https://cdn.pixabay.com/photo/2023/05/23/15/42/bengal-tiger-8013012_1280.jpg",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2023/05/23/15/42/bengal-tiger-8013012_1280.jpg"
+    },
+    {
+      "id": 2,
+      "fileType": "video",
+      "url": "https://www.youtube.com/watch?v=L0OEVSUkqbA",
+      "thumbnailUrl": "https://img.youtube.com/vi/L0OEVSUkqbA/0.jpg"
+    },
+    {
+      "id": 3,
+      "fileType": "image",
+      "url": "https://cdn.pixabay.com/photo/2024/03/12/13/13/woman-8628792_1280.jpg",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2024/03/12/13/13/woman-8628792_1280.jpg"
+    },
+    {
+      "id": 4,
+      "fileType": "video",
+      "url": "https://www.youtube.com/watch?v=FPcYWcASe5U",
+      "thumbnailUrl": "https://img.youtube.com/vi/FPcYWcASe5U/0.jpg"
+    },
+    {
+      "id": 5,
+      "fileType": "image",
+      "url": "https://cdn.pixabay.com/photo/2023/09/26/06/45/bride-8276613_1280.jpg",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2023/09/26/06/45/bride-8276613_1280.jpg"
+    },
+    {
+      "id": 6,
+      "fileType": "video",
+      "url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+      "thumbnailUrl": "https://img.youtube.com/vi/JGwWNGJdvx8/0.jpg"
+    },
+    {
+      "id": 7,
+      "fileType": "image",
+      "url": "https://cdn.pixabay.com/photo/2023/01/23/00/45/cat-7737618_960_720.jpg",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2023/01/23/00/45/cat-7737618_960_720.jpg"
+    },
+    {
+      "id": 8,
+      "fileType": "video",
+      "url": "https://www.youtube.com/watch?v=nERc9p9hG88",
+      "thumbnailUrl": "https://img.youtube.com/vi/nERc9p9hG88/0.jpg"
+    }
+  ]
+}

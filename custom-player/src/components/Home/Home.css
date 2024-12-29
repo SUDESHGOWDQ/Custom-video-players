@@ -1,0 +1,17 @@
+.home {
+  height: 88vh;
+  width: 100%;
+}
+
+.media-container {
+  height: inherit;
+}
+
+.loader-container {
+  height: 100%;
+  width: 100%;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

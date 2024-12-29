@@ -1,0 +1,9 @@
+.video-player-main-container {
+  display: flex;
+  flex-direction: column;
+  height: 88vh;
+}
+
+.video-player-main-container-fullscreen {
+  height: 90vh;
+}

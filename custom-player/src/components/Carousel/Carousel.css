@@ -1,0 +1,25 @@
+.carousel {
+  position: absolute;
+  height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 400px;
+  z-index: 1;
+}
+
+.carousel-btn {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background: wheat;
+  opacity: 0.6;
+  opacity: 1;
+  color: orange;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+}

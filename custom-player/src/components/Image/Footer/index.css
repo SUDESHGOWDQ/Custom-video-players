@@ -1,0 +1,24 @@
+.image-footer {
+  position: absolute;
+  bottom: 10px;
+  display: flex;
+  width: 90%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.middle-controls {
+  color: white;
+}
+
+.image-controls {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.fullscreen-button {
+  color: white;
+  background: transparent;
+  border: none;
+}
